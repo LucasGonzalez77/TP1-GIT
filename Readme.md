@@ -5,3 +5,4 @@
 ###Título: Ingeniero Electromecánico
 ###Otros estudios: cursando Tecnicatura Universitaria en Programación
 ###Ámbito profesional: Desempeño en el área de ingeniería proyectos y ventas en empresa de Refrigeración Industrial, en Rafaela, Santa Fe.
+####Se agrega foto pag 3 CV.
