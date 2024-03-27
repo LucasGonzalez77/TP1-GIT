@@ -4,3 +4,4 @@ LISTA:
 Nombre Alumno1: Lucas Gonzáelez
 Nombre Alumno2: revisión Alumno1
 [Alumno1](https://github.com/LucasGonzalez77/TP1-GIT.git)
+[Alumno2](https://github.com/LucasGonzalez77/TP1-GIT.git)
